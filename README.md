@@ -26,7 +26,6 @@ I'm a passionate Full Stack Developer from India with expertise in modern web te
 - 👯 I'm looking to collaborate on [PriceScout](https://price-scout355.vercel.app/) - A price comparison tool
 - 💬 Ask me about **React, Next.js, TypeScript, and full-stack development**
 - 📫 Reach me at: **kedarshah355@gmail.com**
-- ⚡ Fun fact: I enjoy solving algorithmic problems on LeetCode in my free time
 
 ## 🚀 Featured Projects
 
@@ -37,7 +36,7 @@ I'm a passionate Full Stack Developer from India with expertise in modern web te
       <h3 align="center">AniVault</h3>
       <div align="center">
         <a href="https://anime-vault355.vercel.app/" target="_blank">
-          <img src="https://via.placeholder.com/500x300?text=AniVault" width="400" alt="AniVault"/>
+          <img src="https://ibb.co/vxLvHL6B" width="400" alt="AniVault"/>
         </a>
         <p>
           <a href="https://github.com/kedar355/anime-vault" target="_blank">
@@ -54,7 +53,7 @@ I'm a passionate Full Stack Developer from India with expertise in modern web te
       <h3 align="center">PriceScout</h3>
       <div align="center">
         <a href="https://price-scout355.vercel.app/" target="_blank">
-          <img src="https://via.placeholder.com/500x300?text=PriceScout" width="400" alt="PriceScout"/>
+          <img src="https://ibb.co/rgdsrgh" width="400" alt="PriceScout"/>
         </a>
         <p>
           <a href="https://github.com/kedar355/price-scout" target="_blank">
@@ -151,12 +150,6 @@ I'm a passionate Full Stack Developer from India with expertise in modern web te
 - Completed 100+ problems on LeetCode
 - Contributed to open-source projects
 - Developed and deployed 10+ full-stack applications
-
-## 📚 Education & Certifications
-
-- **Bachelor's in Computer Science** - University Name, Year
-- **Full Stack Web Development** - Certification Provider, Year
-- **Advanced React Patterns** - Certification Provider, Year
 
 ## 📫 Connect With Me
 
