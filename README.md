@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952dp09qjjf8ncue92mgp735hsa9tmuf1flg8ozds4f&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" alt="coding">
+</div>
 <h1 align="center">Hi 👋, I'm Kedar Shah</h1>
 <h3 align="center">A passionate full stack developer from India.</h3>
 
