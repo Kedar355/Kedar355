@@ -36,12 +36,8 @@ I'm a passionate Full Stack Developer from India with expertise in modern web te
       <h3 align="center">AniVault</h3>
       <div align="center">
         <a href="https://anime-vault355.vercel.app/" target="_blank">
-          <img src="https://ibb.co/vxLvHL6B" width="400" alt="AniVault"/>
         </a>
         <p>
-          <a href="https://github.com/kedar355/anime-vault" target="_blank">
-            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-          </a>  
           <a href="https://anime-vault355.vercel.app/" target="_blank">
             <img src="https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=vercel"/>
           </a>
@@ -53,12 +49,8 @@ I'm a passionate Full Stack Developer from India with expertise in modern web te
       <h3 align="center">PriceScout</h3>
       <div align="center">
         <a href="https://price-scout355.vercel.app/" target="_blank">
-          <img src="https://ibb.co/rgdsrgh" width="400" alt="PriceScout"/>
         </a>
         <p>
-          <a href="https://github.com/kedar355/price-scout" target="_blank">
-            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-          </a>  
           <a href="https://price-scout355.vercel.app/" target="_blank">
             <img src="https://img.shields.io/badge/Live-blue?style=for-the-badge&logo=vercel"/>
           </a>
