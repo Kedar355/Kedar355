@@ -130,10 +130,6 @@ I'm a passionate Full Stack Developer from India with expertise in modern web te
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kedar355&theme=radical" alt="kedar355" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kedar355&show_icons=true&locale=en&layout=compact&theme=radical" alt="kedar355" />
 </div>
 
