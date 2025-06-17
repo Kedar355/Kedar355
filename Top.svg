@@ -3,6 +3,7 @@
     svg {
       width: 110vw;
       position: fixed;
+      top: -5px;
       bottom: -5px;
       transform: rotate(180deg);
       overflow: visible;
